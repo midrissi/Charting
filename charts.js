@@ -1,6 +1,6 @@
 ﻿var _ns = {};
 /**
-* This file work with this libraries:
+* This file require this libraries:
 *	=> dc.js 		: http://nickqizhu.github.io/dc.js/
 *	=> d3js 		: http://www.d3js.org/
 *	=> crossfilter 	: https://github.com/square/crossfilter
